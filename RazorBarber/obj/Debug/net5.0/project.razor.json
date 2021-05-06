@@ -15619,6 +15619,11 @@
   "RootNamespace": "RazorBarber",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Barber\\Barber-Needs\\RazorBarber\\Pages\\Tools\\Index.cshtml",
+      "TargetPath": "Pages\\Tools\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Administrator\\Desktop\\Barber\\Barber-Needs\\RazorBarber\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15626,6 +15631,11 @@
     {
       "FilePath": "c:\\Users\\Administrator\\Desktop\\Barber\\Barber-Needs\\RazorBarber\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Barber\\Barber-Needs\\RazorBarber\\Pages\\Tools\\Details.cshtml",
+      "TargetPath": "Pages\\Tools\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15639,8 +15649,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Barber\\Barber-Needs\\RazorBarber\\Pages\\Tools\\Edit.cshtml",
+      "TargetPath": "Pages\\Tools\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Administrator\\Desktop\\Barber\\Barber-Needs\\RazorBarber\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Barber\\Barber-Needs\\RazorBarber\\Pages\\Tools\\Delete.cshtml",
+      "TargetPath": "Pages\\Tools\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15651,6 +15671,11 @@
     {
       "FilePath": "c:\\Users\\Administrator\\Desktop\\Barber\\Barber-Needs\\RazorBarber\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Barber\\Barber-Needs\\RazorBarber\\Pages\\Tools\\Create.cshtml",
+      "TargetPath": "Pages\\Tools\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
